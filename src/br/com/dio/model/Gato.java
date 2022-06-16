@@ -1,3 +1,4 @@
+package br.com.dio.model;
 import java.util.Objects;
 
 public class Gato {
