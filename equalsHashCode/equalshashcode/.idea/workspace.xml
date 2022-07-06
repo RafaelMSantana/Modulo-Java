@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a478df2d-6a5a-4ff3-8afd-46db16dec2f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/Estruturas-repeticao-arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Aleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Maior_Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Nome_Idade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Ordem_Inversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Par_Impar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Estruturas-repeticao-arrays/src/dio/Ex_Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/Logica-condicional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Controle de fluxo/Controle de fluxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Controle de fluxo/src/dio/DiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Controle de fluxo/src/dio/DiaSemanaNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Controle de fluxo/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Controle de fluxo/src/dio/Mes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Operadores logicos/Operadores logicos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Operadores logicos/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Operadores relacionais/Operadores relacionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/Operadores relacionais/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/out/production/Controle de fluxo/dio/DiaSemana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/out/production/Controle de fluxo/dio/DiaSemanaNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/out/production/Controle de fluxo/dio/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logica-condicional/out/production/Controle de fluxo/dio/Mes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Criacao/dio/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Criacao/dio/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Criacao/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Criacao/dio/Mensagens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Metodos-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Retornos/Retornos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Retornos/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Retornos/src/dio/Quadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Sobrecarga/Sobrecarga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Sobrecarga/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Metodos-Java/Sobrecarga/src/dio/Quadrilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Operadores relacionais/Operadores relacionais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 01/Aula 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 02/Aula 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 02/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 03/Aula 03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 03/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 04/Aula 04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Aula 04/src/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Variaveis-tipos-operadores/Variaveis-tipos-operadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primeiro-programa-intellij/primeiro-programa-intellij.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primeiro-programa-intellij/src/br/com/dio/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../primeiro-programa-intellij/src/br/com/dio/model/Gato.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BA468xXQmZ4lrA7xkk06eZVAIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/rafaelski/Documentos/Cursos/Bootcamp TQI Fullstack/Módulo Java/Estruturas de dados/stack"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.Main" />
+      <module name="equalshashcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.dio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a478df2d-6a5a-4ff3-8afd-46db16dec2f7" name="Changes" comment="" />
+      <created>1656335379789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656335379789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
